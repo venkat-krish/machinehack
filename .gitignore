@@ -1,4 +1,5 @@
 **/output
+**/data
 **/.ipynb_checkpoints
 **/catboost_info
 **/*.csv
